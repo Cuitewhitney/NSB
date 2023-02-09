@@ -431,18 +431,18 @@ ul.link li {
         /* margin-left: -50px; */
     /* } */
     .image_2{
-        margin-left: -125px;
+        margin-left: 0px;
     }
     .image_2b{
-        margin-left: -125px;
+        margin-left: -50px;
     }
     .image_2c{
         margin-left: -11px;
     }
     .image_3{
-        width: 120%;
+        width: 90%;
         border-radius: 10px;
-        margin-left: -76px;
+        margin-left: -66px;
     }
     .dolor_text{
         margin-bottom: 120px;
@@ -474,9 +474,9 @@ ul.link li {
         /* margin-top: 6100px; */
     }
 
-    /* .footerr-col-3{
+    .footerr-col-3{
         margin-top: 40px;
-    } */
+    }
     .footerr-col-3 p{
         line-height: 1.5;
     }
